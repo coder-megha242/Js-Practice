@@ -1,4 +1,4 @@
-let name ="Hitesh";
+let person ="Hitesh";
 let age = 18;
 let isLoggedin = false;
 
@@ -6,8 +6,8 @@ let isLoggedin = false;
 
 // Primitive DataType
 
-// number 2 to the power of 53
-//bigint if number is too large then bigInt is used 
+// number => 2 to the power of 53
+//bigint  => if number is too large then bigInt is used 
 // string => ""
 // Boolean => False or True
 // null => its standalone Value
@@ -17,8 +17,8 @@ let isLoggedin = false;
 
 //Non Primitve Datatype
 
-//Object =>Collections of key-value pairs.
-//Array => Ordered collections of values.
+//Object =>  Collections of key-value pairs.
+//Array  =>  Ordered collections of values.
 //Funtion => Reusable blocks of code.
 
 
